@@ -121,3 +121,9 @@ input:focus {
 	-o-border-radius: 3px;
 	border-radius: 3px;
 }
+
+@media only screen and (max-height: 320px) {
+	.form-login {
+		margin: 0 auto;
+	}
+}
